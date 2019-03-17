@@ -30,4 +30,4 @@ Console.WriteLine(x);
 ```
 
 
-odsyłacz [kliknij tutaj]
+odsyłacz [kliknij tutaj] https://e.wsei.edu.pl/course/view.php?id=551
